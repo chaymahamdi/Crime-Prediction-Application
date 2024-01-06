@@ -1,5 +1,6 @@
 # NY Crime Prediction Web Application
 
+![Alt Text](https://github.com/chaymahamdi/Crime-Prediction-Application/blob/main/Application/Screenshot_image.png)
 
 ## Overview
 This project aims to create a simple web application that predicts crime probabilities in New York City and their types based on user-provided information, location, and time. The application utilizes the NYPD Complaint Data Historic Dataset, encompassing valid felony, misdemeanor, and violation crimes reported to the New York City Police Department from 2006 to 2019. The dataset contains approximately 7 million complaints and 35 columns, providing spatial, temporal, descriptive, and penal classification information about crime occurrences.
