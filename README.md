@@ -42,6 +42,9 @@ To run the web application locally:
 ## Folder Structure
 - `Notebooks/`: Holds notebooks for data cleaning, EDA, and modeling.
 - `Application/`: Includes files for the Streamlit web application.
+  
+## Paper
+To document our work, we wrote a research paper that is included in the [repo](https://github.com/chaymahamdi/Crime-Prediction-Application/blob/main/documents/Crime_prediction%20scientific%20paper.pdf).
 
 ## Contributors
 This project was developed by Marzougui Jawhar, Hamdi Chayma, Abid Yosr and Zahra Nada, aiming to leverage data-driven approaches to predict crime probabilities and their types in New York City.
