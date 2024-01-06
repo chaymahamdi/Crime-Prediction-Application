@@ -1,4 +1,3 @@
-# Crime-Prediction-Application
 # NY Crime Prediction Web Application
 
 
