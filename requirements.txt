@@ -1,0 +1,16 @@
+scikit-learn
+scikit-plot
+xgboost
+lightgbm
+tqdm
+re
+folium
+streamlit-folium
+plotly
+seaborn
+pandas
+numpy
+clipboard
+requests
+joblib
+streamlit
